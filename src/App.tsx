@@ -12,7 +12,7 @@ const projects: Project[] = [
   {
     id: "p1",
     title: "Calendar App",
-    description: "A responsive calendar app with event creation and color-coded tags.",
+    description: "A responsive app with event creation and color-coded tags.",
     tech: ["React", "TypeScript", "Tailwind"],
     link: "#",
   },
